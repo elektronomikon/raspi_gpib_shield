@@ -1,6 +1,7 @@
 # raspi_gpib_shield
 A GPIB shield for the raspberry pi
 
-This repository contains patches for linux-gpib to enable the raspberry pi acces to the gpib-bus over the gpio port.
+This repository contains the schematics for the raspberry-pi GPIB shield.
+Copy or clone to a local folder to view in KiCad, a pdf is found under /documentation/.
 
-Additional KiCad files for the shield are available.
+For preassembled units please contact us at elektronomicon@gmail.com
