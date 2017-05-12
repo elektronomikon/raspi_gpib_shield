@@ -1,6 +1,8 @@
 # raspi_gpib_shield
 A GPIB shield for the raspberry pi.
 
+![RasPi_GPIB_Shield Overview](http://elektronomikon.org/wp-content/uploads/2017/04/Blockdiagramm-Uebersicht.png)
+
 Connecting GPIB-capable lab equipment to your PC nowadays is mostly a choice between several USB-to-GPIB adapters. If your platform of choice is linux, especially the Raspberry Pi, then you may run into trouble getting some of the proprietary adapters up and running.
 
 The Raspberry Pi shield was created to solve this problem.
