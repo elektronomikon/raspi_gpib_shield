@@ -1,0 +1,8 @@
+TODO:
+fix Centronix footprint
+add alternative fuse (the radial one are not really common) - polyfuse?
+fix silkscreen for SN7516x
+decide upon ground-shield connection (RC really necessary?)
+
+DONE:
+-
