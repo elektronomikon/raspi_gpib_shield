@@ -1,9 +1,11 @@
 TODO:
+change resistor footprint to longer version
+resistor network optional silkscreen
+
+DONE:
+Version 0.6:
+merge parts into one library?
 fix Centronix footprint
 add alternative fuse (the radial one are not really common) - polyfuse?
 fix silkscreen for SN7516x
 decide upon ground-shield connection (RC really necessary?)
-merge parts into one library?
-
-DONE:
--
