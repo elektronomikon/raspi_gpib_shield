@@ -9,7 +9,8 @@ The Raspberry Pi shield was created to solve this problem.
 
 ![RasPi_GPIB_Shield Overview](https://github.com/elektronomikon/raspi_gpib_shield/raw/master/Documentation/Overview.png)
 
-This repository only contains the schematics for the raspberry-pi GPIB shield, which is meant to be used with the raspi_gpib_driver (https://github.com/elektronomikon/raspi_gpib_driver).
-Copy or clone to a local folder to view in KiCad, a pdf is found under /documentation/.
+This repository only contains the schematics for the raspberry-pi GPIB shield, which is meant to be used with the gpib_bitbang driver from linux-gpib.
+
+Copy or clone to a local folder to view in KiCad, a pdf of the schematic is found under /documentation/.
 
 For preassembled units please contact us at elektronomikon@gmail.com, further infos at https://elektronomikon.org
